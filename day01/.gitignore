@@ -1,5 +1,1 @@
 build/
-parser/calc
-parser/lex.yy.c
-parser/parser.tab.c
-parser/parser.tab.h
