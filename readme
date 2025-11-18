@@ -1,1 +1,4 @@
 Modern CPP
+
+- Day 1 — Compilation pipeline, translation units, and parser mini-project (`day01/`).
+- Day 2 — Value categories, Trace helper, and RVO experiments (`day2/`).
